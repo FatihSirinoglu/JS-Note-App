@@ -6,3 +6,4 @@ What's new for me:
 - document.createElement, warning like prompt, insertBefore for JS
 
 * localStorage going to be calibrated
+* https://www.youtube.com/watch?v=-7JSF_aATJg
